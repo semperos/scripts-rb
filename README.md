@@ -9,5 +9,5 @@ ruby/
     watching.rb   # Example Watchr script, used to parse my blog posts
 
 batch/
-    mdown.bat    # Executable wrapper around mdown.rb
+    mdown.bat     # Executable wrapper around mdown.rb
 ```
